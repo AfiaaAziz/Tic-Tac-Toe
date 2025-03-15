@@ -1,2 +1,3 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe game made using html, css and Javascript.
+
+## Tic-Tac-Toe
+This Tic-Tac-Toe game is developed using HTML, CSS, and JavaScript, allowing a human player to compete against the computer. The game features a simple yet engaging interface, where the computer uses basic AI logic to make strategic moves, creating a fair and challenging experience. The design is responsive and mobile-friendly, ensuring smooth gameplay across different devices. Players receive instant feedback on the game's outcome—whether it's a win, loss, or tie—and can easily restart the game to play again. This project showcases the use of core web technologies to build an interactive and enjoyable gaming experienc
